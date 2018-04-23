@@ -21,9 +21,9 @@ USING_NS_CC;
 namespace UICustom{
 
     namespace CUSTOM_BUTTON_IMAGES {
-        const std::string SQUARE = "res/CustomButton/Square.png";
-        const std::string CIRCLE = "res/CustomButton/Circle.png";
-        const std::string TRIANGLE = "res/CustomButton/Triangle.png";
+        const std::string SQUARE = "res/Square.png";
+        const std::string CIRCLE = "res/Circle.png";
+        const std::string TRIANGLE = "res/Triangle.png";
     }
 
 
